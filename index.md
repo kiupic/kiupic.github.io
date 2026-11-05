@@ -1,7 +1,3 @@
----
-title: Home
----
-
 # ESP Revision Hub
 
 My study guide for the **Employer-Set Project (ESP)** in the T Level Design and Development for Engineering and Manufacturing (City & Guilds 8714, ESP component 8730-035).
